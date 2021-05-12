@@ -1,0 +1,4 @@
+1 Beauty
+2 Sport
+3 cooking
+4 fixing_repairs
